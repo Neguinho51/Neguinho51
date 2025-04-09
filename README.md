@@ -46,7 +46,13 @@ gunicorn
     name: simulador-bacbo
     env: python
     buildCommand: ""
-    startCommand: gunicorn app:app
+    startCommand: gunicorn app:git init
+git add .
+git commit -m "Versão inicial do simulador Bac Bo"
+git branch -M main
+git remote add origin https://github.com/neguinho51/SEU_REPO.git
+git push -u origin main
+
 
 
 Here are some ideas to get you started:
