@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## olá em que posso ser útil? 👋mkdir simulador-bacbo
+cd simulador-bacbo
 <!--
 **Neguinho51/Neguinho51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
