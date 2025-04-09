@@ -1,7 +1,12 @@
 ## olá em que posso ser útil? 👋
 cd simulador-bacbo
 <!--
-**Neguinho51/Neguinho51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neguinho51/Neguinho51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub simulador-bacbo/
+├── app.py
+├── requirements.txt
+├── render.yaml
+├── templates/
+│   └── index.html
 
 Here are some ideas to get you started:
 
